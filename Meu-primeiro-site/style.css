@@ -1,5 +1,5 @@
 body{
-    background-color: #fafcfc;
+    background-color: #066e6e41;
 }
 
 #title, .subtitle, .post_title{
@@ -14,7 +14,6 @@ body{
 
 .post{
     background-color: rgba(24, 5, 29, 0.664);
-}
-.subtitle{
-    color: black;
+    padding: 10px;
+    border: 5px solid black;
 }
