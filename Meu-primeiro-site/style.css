@@ -8,23 +8,28 @@ body{
 
 .post_title{
     font-size: 12px;
-    font-style: italic;
-    margin:0;
+    font-style: bold;
+    margin: 2px;
     marging-bottom:15px;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-transform: capitalize;
 }
 
 .post{
-    background-color: rgba(24, 5, 29, 0.664);
+    background-color: rgb(255, 255, 255);
     padding: 10px;
     border: 2px solid black;
     margin: 15px 10px 5px 0;
+    
 }
 
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
+
 .post_image{
     margin-bottom: 15px;
 }
