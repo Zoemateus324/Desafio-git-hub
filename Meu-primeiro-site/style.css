@@ -1,5 +1,5 @@
 body{
-    background-color: #066e6e41;
+    background-color: #fafafa41;
 }
 
 #title, .Subtitle, .post_title{
@@ -9,7 +9,9 @@ body{
 .post_title{
     font-size: 12px;
     font-style: italic;
-;
+    margin:0;
+    marging-bottom:15px;
+
 }
 
 .post{
@@ -17,4 +19,9 @@ body{
     padding: 10px;
     border: 2px solid black;
     margin: 15px 10px 5px 0;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
 }
