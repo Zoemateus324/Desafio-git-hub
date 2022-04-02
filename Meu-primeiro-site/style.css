@@ -1,7 +1,17 @@
-#title, .subtitle, .post_title{
-    color: aquamarine;
+body{
+    background-color: #fafcfc;
 }
+
+#title, .subtitle, .post_title{
+    color: rgb(2, 9, 41);
+}
+
 .post_title{
     font-size: 12px;
     font-style: italic;
+;
+}
+
+.post{
+    background-color: rgba(24, 5, 29, 0.664);
 }
