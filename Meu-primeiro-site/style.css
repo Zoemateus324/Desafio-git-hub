@@ -15,5 +15,6 @@ body{
 .post{
     background-color: rgba(24, 5, 29, 0.664);
     padding: 10px;
-    border: 5px solid black;
+    border: 2px solid black;
+    margin: 10px;
 }
