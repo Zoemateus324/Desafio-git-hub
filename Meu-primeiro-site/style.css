@@ -1,5 +1,7 @@
 body{
     background-color: #fafafa41;
+    width: 900px;
+    margin:auto;
 }
 
 #title, .Subtitle, .post_title{
@@ -26,12 +28,13 @@ body{
 
 .post_content{
     margin: 0;
-    margin-bottom: 15px;
+    margin-bottom: 15px 15px 0px;
     text-transform: capitalize;
 }
 
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .content_list{
