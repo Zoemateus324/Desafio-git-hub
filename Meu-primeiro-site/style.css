@@ -1,6 +1,6 @@
 body{
     background-color: #fafafa41;
-    width: 900px;
+    max-width: 900px;
     margin:auto;
 }
 
@@ -27,9 +27,11 @@ body{
 }
 
 .post_content{
+    color: black;
     margin: 0;
     margin-bottom: 15px 15px 0px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image{
@@ -46,3 +48,4 @@ body{
 text-decoration: none;
 }
 
+.
